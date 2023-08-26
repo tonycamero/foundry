@@ -4,19 +4,19 @@ Effective Jul 31 2023 / Updated Aug DD YYYY
 
 #### 1. Mission of the HBAR Foundry.
 
-The Foundry’s mission is to unite Hedera ecosystem stakeholders, promote tech adoption, foster collaboration, and drive sustainable economic prosperity, establishing Hedera as a global leader.
+The Foundry’s mission is to unite Hedera ecosystem stakeholders, promote tech adoption, foster collaboration, and advance sustainable Hedera projects, developments, and initiatives thereby establishing Hedera as a global leader.
 
-Hedera is a decentralized, open-source, proof-of-stake public ledger that utilizes the leaderless, asynchronous Byzantine Fault Tolerance (aBFT) hashgraph consensus algorithm. It is governed by a collusion-resistant, decentralized council of leading enterprises, universities, and web3 projects from around the world.
+Hedera is a decentralized, open-source, proof-of-stake public ledger that utilizes the leaderless, asynchronous Byzantine Fault Tolerance (aBFT) hashgraph consensus algorithm. It is governed by a collusion-resistant, decentralized council of leading enterprises, universities, and Web3 projects from around the world.
 
 #### 2. Role of the HBAR Foundry.
 
-The HBAR Foundry is the voice of the Hedera community, bringing together end-users, business owners, developers, marketing experts, and HBAR holders. Our roles include guiding the development of standards, evaluating and promoting projects, facilitating communication, and providing practical support through mentorship, education, and effective tools for everyone in the Hedera ecosystem.
+The HBAR Foundry serves as a platform for the many diverse voices of the Hedera ecosystem connecting diverse organizations and foundations, entrepreneurs and business owners, engineers and developers, marketing experts and content creators, and all HBAR holders together in a self-organizing, collaborative guild that aims to serve its members as well as the Hedera ecosystem at large. Our roles include guiding the development of standards, evaluating and promoting projects, facilitating communication, brokering introductions, and providing practical support through mentorship, education, and effective tools for everyone in the Hedera ecosystem.
 
 -	(a) Standards
 
 	-	i. Interoperability: Communities that actively contribute to technology standards help ensure interoperability between different software and systems. When projects adhere to common standards, they can seamlessly work together, reducing compatibility issues and fostering a more cohesive and integrated technology landscape. This, in turn, encourages collaboration and sharing of resources among developers and stakeholders, leading to accelerated innovation and problem-solving.
 
-	-	ii. Community-driven Innovation: By contributing to technology standards, open source communities can influence the direction and evolution of the technology itself. Standards that are developed collaboratively and openly can reflect a wider range of perspectives and use cases. As a result, the technology becomes more robust, adaptable, and relevant to the needs of the community it serves. This democratization of standards development encourages creativity and empowers developers to build upon shared foundations, leading to a thriving ecosystem of innovative solutions.
+	-	ii. Community-driven Innovation: By contributing to technology standards, open-source communities can influence the direction and evolution of the technology itself. Standards that are developed collaboratively and openly can reflect a wider range of perspectives and use cases. As a result, the technology becomes more robust, adaptable, and relevant to the needs of the community it serves. This democratization of standards development encourages creativity and empowers developers to build upon shared foundations, leading to a thriving ecosystem of innovative solutions.
 
 -	(b) Evaluating and Promoting Projects
 
@@ -26,13 +26,13 @@ The HBAR Foundry is the voice of the Hedera community, bringing together end-use
 
 -	(c) Communication
 
-	-	i. Collaboration and Knowledge Sharing: In an open source ecosystem, collaboration is essential for the success and improvement of projects. By facilitating communication among community members, developers can exchange ideas, share knowledge, and collectively solve challenges. Open and effective communication channels foster a culture of learning and mentorship, allowing newcomers to gain insights from experienced contributors. This collaborative environment enhances the overall expertise within the community and leads to more innovative and robust solutions.
+	-	i. Collaboration and Knowledge Sharing: In an open-source ecosystem, collaboration is essential for the success and improvement of projects. By facilitating communication among community members, developers can exchange ideas, share knowledge, and collectively solve challenges. Open and effective communication channels foster a culture of learning and mentorship, allowing newcomers to gain insights from experienced contributors. This collaborative environment enhances the overall expertise within the community and leads to more innovative and robust solutions.
 
-	-	ii. Community Building and Engagement: Communication is the lifeblood of any community. By actively facilitating communication, an open source community strengthens its bonds, builds a sense of camaraderie, and nurtures a vibrant social fabric. Regular interactions, discussions, and updates help community members feel more engaged and valued, which, in turn, increases their commitment to the projects and the community as a whole. A thriving and engaged community attracts new contributors and supporters, ensuring the sustainability and growth of the ecosystem. Effective communication also allows the community to quickly respond to emerging issues, address concerns, and make collective decisions in a transparent and inclusive manner.
+	-	ii. Community Building and Engagement: Communication is the lifeblood of any community. By actively facilitating communication, an open-source community strengthens its bonds, builds a sense of camaraderie, and nurtures a vibrant social fabric. Regular interactions, discussions, and updates help community members feel more engaged and valued, which, in turn, increases their commitment to the projects and the community as a whole. A thriving and engaged community attracts new contributors and supporters, ensuring the sustainability and growth of the ecosystem. Effective communication also allows the community to quickly respond to emerging issues, address concerns, and make collective decisions in a transparent and inclusive manner.
 
 -	(d) Tools
 
-	-	i. Empowering User Adoption and Contribution: Creating and maintaining a comprehensive set of libraries, tools, documentation, and SDKs enhances the accessibility and usability of open source projects. When these resources are readily available, developers and end-users can more easily adopt the Hedera and integrate it into their own projects. The provision of clear and extensive documentation also lowers the barriers for new contributors to join the community. As more users and contributors engage with the Hedera, it benefits from diverse perspectives, feedback, and contributions, leading to continuous improvement and innovation.
+	-	i. Empowering User Adoption and Contribution: Creating and maintaining a comprehensive set of libraries, tools, documentation, and SDKs enhances the accessibility and usability of open-source projects. When these resources are readily available, developers and end-users can more easily adopt the Hedera and integrate it into their own projects. The provision of clear and extensive documentation also lowers the barriers for new contributors to join the community. As more users and contributors engage with the Hedera, it benefits from diverse perspectives, feedback, and contributions, leading to continuous improvement and innovation.
 
 	-	ii. Fostering Ecosystem Growth and Interoperability: Communities thrive on collaboration and the ability to work together effectively. By developing standardized libraries, tools, and SDKs, the community promotes consistency and interoperability among different projects. This uniformity streamlines integration processes, encouraging cross-collaboration and the creation of complementary tools. When diverse projects can seamlessly interact and build upon each other's work, it leads to a rich and interconnected ecosystem. Additionally, the availability of well-documented and well-maintained resources attracts developers and organizations to adopt the technology, further contributing to the ecosystem's growth and sustainability.
 
@@ -80,7 +80,7 @@ TODO
 
 	-	iii. The community shall elect all nine (9) TSC members; a chair, a co-chair, and seven (7) subject-matter experts to represent the key domains.
 
-	-	iv. If more than two (2) TSC members would be from the same group of Related Companies, either at the time of election or from a later job change, they will jointly decide who should step down, or if there is no agreement, random lots shall be drawn.
+	-	iv. If more than two (2) TSC members are from the same group of Related Companies, either at the time of election or from a later job change, they will jointly decide who should step down, or if there is no agreement, random lots shall be drawn.
 
 -	(c) Operating Model
 
@@ -92,7 +92,7 @@ TODO
 
 		-	a. any TSC member,
 
-		-	b. a maintainer or top level project leader in an HF project established under Section 9(b)(i),
+		-	b. a maintainer or top-level project leader in an HF project established under Section 9(b)(i),
 
 		-	c. a majority vote of the general community.
 
@@ -104,9 +104,9 @@ TODO
 
 	-	vii. The intent is for the TSC to find a path to consensus within the TSC and community. TSC decisions at meetings meeting quorum requirements shall pass with a vote greater than 50% of TSC members present.
 
-	-	viii. TSC meetings shall require a quorum of two-thirds of the TSC total members to take a vote or make any decision. If a TSC meeting fails to meet the quorum requirement, discussions may proceed, however there shall be no voting or decisions.
+	-	viii. TSC meetings shall require a quorum of two-thirds of the TSC total members to take a vote or make any decision. [Quarum is 6 and a 3:3 vote requires a tiebreaker, how is it settled?] If a TSC meeting fails to meet the quorum requirement, discussions may proceed, however, there shall be no voting or decisions.
 
-	-	ix. TSC decisions may be made electronically without a meeting, but to pass a vote shall require as many votes as would be needed to achieve quorum in a meeting. During an electronic vote, if any two (2) TSC members request a meeting to discuss the decision, the electronic vote in process shall end without effect, and a new vote may be initiated after the meeting to discuss the decision has completed.
+	-	ix. TSC decisions may be made electronically without a meeting, but to pass a vote shall require as many votes as would be needed to achieve a quorum in a meeting. During an electronic vote, if any two (2) TSC members request a meeting to discuss the decision, the electronic vote in process shall end without effect, and a new vote may be initiated after the meeting to discuss the decision has completed[?].
 
 -	(d) Criteria for Nomination. Nominees for the TSC shall:
 
@@ -128,7 +128,7 @@ TODO
 
 	-	ii. TSC members may be removed by a two-thirds vote of the other TSC members, with the impacted individual ineligible to participate in the vote.
 
-	-	iii. Any TSC member that misses three (3) consecutive meetings shall be automatically suspended from eligibility to vote until having attended two meetings consecutively. For avoidance of doubt, the suspended TSC member shall be eligible to vote in the second consecutive meeting.
+	-	iii. Any TSC member who misses three (3) consecutive meetings shall be automatically suspended from eligibility to vote until having attended two meetings consecutively. For the avoidance of doubt, the suspended TSC member shall be eligible to vote in the second consecutive meeting.
 
 	-	iv. The TSC agenda will be set by the TSC. However, it is expected that TSC discussions and decisions will cover:
 
@@ -140,9 +140,11 @@ TODO
 
 		-	d. identifying immediate gaps that require further investigation
 
+  		-	e. documenting activity for the purpose of communicating to membership
+
 #### 7. HF Projects
 
--	(a) It is expected that member companies, and open source community members will bring project assets to the TSC for discussion and inclusion into the HF. All such contributions should meet a set criteria created by the TSC. The goal is to have an increasing bazaar of projects related to and that integrate with projects already accepted into the HF.
+-	(a) It is expected that member companies and open-source community members will bring project assets to the TSC for discussion and inclusion into the HF. All such contributions should meet a set of criteria created by the TSC. The goal is to have an increasing bazaar of projects related to and that integrate with projects already accepted into the HF.
 
 -	(b) Projects can be associated with the HF in the following 3 ways:
 
@@ -166,7 +168,7 @@ TODO
 
 	-	iii. Used by the HF
 
-		-	a. A project or component that is completely licensed under an OSI-approved open source license and is well managed and used as a component in the HF
+		-	a. A project or component that is completely licensed under an OSI-approved open-source license and is well-managed and used as a component in the HF
 
 		-	b. Project is not actively marketed by the HF,
 
@@ -176,7 +178,7 @@ TODO
 
 -	(d) A standard protocol to achieve committer status shall be established across projects based on an individual’s level and duration of contribution. Maintainer status is achieved through contribution to a given project over time and validation by peer committers.
 
--	(e) New open source projects initiated in the HF shall complete a project proposal template adopted by the TSC and be approved by the TSC for inclusion in the HF. The TSC members shall be afforded sufficient time to discuss and review new project proposals. New project proposals shall include details of the roles in the project, the governance proposed for the project and identify alignment with the HF’s role and values.
+-	(e) New open source projects initiated in the HF shall complete a project proposal template adopted by the TSC and be approved by the TSC for inclusion in the HF. The TSC members shall be afforded sufficient time to discuss and review new project proposals. New project proposals shall include details of the roles in the project, and the governance proposed for the project and identify alignment with the HF’s role and values.
 
 #### 8. IP Policy
 
@@ -188,11 +190,11 @@ TODO
 
 -	(d) All outbound code will be made available under the Apache License, Version 2.0.
 
--	(e) All projects evaluated for inclusion in the HF shall be completely licensed under an OSI-approved open source license. If the license for a project included in HF is not Apache License, Version 2.0, approval of the TSC shall be required.
+-	(e) All projects evaluated for inclusion in the HF shall be completely licensed under an OSI-approved open-source license. If the license for a project included in HF is not Apache License, Version 2.0, approval of the TSC shall be required.
 
 -	(f) All documentation will be received and made available by the HF under the Creative Commons Attribution 4.0 International License.
 
--	(g) If an alternative inbound or outbound license is required for compliance with the license for a leveraged open source project or is otherwise required to achieve the HF’s mission, the TSC may approve the use of an alternative license for inbound or outbound contributions on an exception basis.
+-	(g) If an alternative inbound or outbound license is required for compliance with the license for a leveraged open-source project or is otherwise required to achieve the HF’s mission, the TSC may approve the use of an alternative license for inbound or outbound contributions on an exception basis.
 
 #### 9. Code of Conduct
 
@@ -204,9 +206,9 @@ TODO
 
 #### 11. General & Administrative Expenses
 
--	(a) TODO shall have custody of any fees, funds and other cash receipts.
+-	(a) Multi-sig Hbar Foundry Treasury shall have custody of any fees, funds and other cash receipts.
 
--	(b) A General & Administrative (G&A) fee will be applied to funds raised to cover Finance, Accounting and operations. The G&A fee shall equal 9% of HF’s first \$1,000,000 of gross receipts and 6% of HF’s gross receipts over \$1,000,000.
+-	(b) A General & Administrative (G&A) fee will be applied to funds raised to cover Finance, Accounting and operations. The G&A fee shall equal 9% of HF’s first \$1,000,000 of gross receipts and 6% of HF’s gross receipts over \$1,000,000. [For a bookkeeper? Staff member? Legal?]
 
 #### 17. General Rules and Operations.
 
@@ -214,7 +216,7 @@ The participants in HF shall:
 
 -	(a) demonstrate plans and the means to coordinate with the open source project’s developer community, including on topics such as branding, logos, and other collateral that will represent the community;
 
--	(b) engage in a professional manner consistent with maintaining a cohesive community, while also maintaining the goodwill and esteem of The HBAR Foundry in the open source software community;
+-	(b) engage in a professional manner consistent with maintaining a cohesive community, while also maintaining the goodwill and esteem of The HBAR Foundry in the open-source software community;
 
 -	(c) respect the rights of all trademark owners, including any branding and usage guidelines;
 
@@ -222,9 +224,9 @@ The participants in HF shall:
 
 -	(e) upon request, provide information regarding project participation, including information regarding attendance at project-sponsored events, to The HBAR Foundry;
 
--	(f) engage The HBAR Foundry for any websites directly for the community; and
+-	(f) engage The HBAR Foundry for[?] any websites directly for the community; and
 
--	(g) operate under such rules and procedures as may from time to time be approved by the TSC, provided that such rules and procedures shall not be inconsistent with the purpose and policies of the HBAR Foundry and shall not be detrimental to the HBAR Foundry.
+-	(g) operate under such rules and procedures as may from time to time be approved by the TSC, provided that such rules and procedures shall not be inconsistent with the purpose and policies of the HBAR Foundry and shall not be detrimental to the HBAR Foundry. 
 
 #### 18. Amendments
 
